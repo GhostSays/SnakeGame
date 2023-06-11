@@ -1,6 +1,7 @@
 Warning: 
 
 1- It will only work properly in the command prompt (CMD)!
+
 2- If you're unable to follow the steps below, it might be because you don't have Python installed on your computer or it's not registered as a system variable. In either case, there are online tutorials available.
 
 
