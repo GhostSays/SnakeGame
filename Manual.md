@@ -21,11 +21,11 @@ To start the game, simply follow the steps below (all commands described below s
 
 Navigate to the directory where the file.py is downloaded. For example, type the following command and press enter:
 
-this is just a example: cd C:\Users\$User\Downloads
+	cd C:\Users\$User\Downloads
 
 Run the Python script by entering the following command and pressing enter:
 
 	python snakegame.py
 
-After that, the game will start running. Use the UP, DOWN, LEFT, and RIGHT buttons on your keyboard to control it.
+After that, the game will start running. Use the UP, DOWN, LEFT, and RIGHT buttons on your keyboard to control it. To exit the game, press CTRL+C on your keyboard.
 	
