@@ -1,11 +1,11 @@
-#Warning: 
+# Warning: 
 
 1- It will only work properly in the command prompt (CMD)!
 
 2- If you're unable to follow the steps below, it might be because you don't have Python installed on your computer or it's not registered as a system variable. In either case, there are online tutorials available.
 
 
-#How to play?
+# How to play?
 
 Installation of the required library:
 
@@ -15,7 +15,7 @@ To play the game, you need to have the "PYNPUT" library installed on your comput
 	
 After that, the library will be installed automatically.
 
-#Starting the game:
+# Starting the game:
 
 To start the game, simply follow the steps below (all commands described below should be executed within the command prompt (CMD)):
 
