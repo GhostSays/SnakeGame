@@ -5,12 +5,14 @@
 2- If you're unable to follow the steps below, it might be because you don't have Python installed on your computer or it's not registered as a system variable. In either case, there are online tutorials available.
 
 
-##How to play?
+#How to play?
 
 Installation of the required library:
 
 To play the game, you need to have the "PYNPUT" library installed on your computer. To install it, type the following command in the command prompt (CMD) and press enter:
+
 	pip install pynput
+	
 After that, the library will be installed automatically.
 
 #Starting the game:
