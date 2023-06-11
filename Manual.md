@@ -20,9 +20,11 @@ After that, the library will be installed automatically.
 To start the game, simply follow the steps below (all commands described below should be executed within the command prompt (CMD)):
 
 Navigate to the directory where the file.py is downloaded. For example, type the following command and press enter:
-	cd C:\Users$User\Downloads
+
+	cd C:\Users\$User\Downloads
 
 Run the Python script by entering the following command and pressing enter:
+
 	python snakegame.py
 
 After that, the game will start running. Use the UP, DOWN, LEFT, and RIGHT buttons on your keyboard to control it.
